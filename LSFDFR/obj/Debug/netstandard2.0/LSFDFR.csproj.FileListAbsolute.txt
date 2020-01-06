@@ -1,0 +1,4 @@
+E:\LSFDFR\LSFDFR\obj\Debug\netstandard2.0\LSFDFR.csprojAssemblyReference.cache
+E:\LSFDFR\LSFDFR\obj\Debug\netstandard2.0\LSFDFR.csproj.CoreCompileInputs.cache
+E:\LSFDFR\LSFDFR\obj\Debug\netstandard2.0\LSFDFR.AssemblyInfoInputs.cache
+E:\LSFDFR\LSFDFR\obj\Debug\netstandard2.0\LSFDFR.AssemblyInfo.cs
